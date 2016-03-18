@@ -69,12 +69,12 @@ hr.star-light {
 }
 
 hr.star-light:after {
-    color: #fff;
-    background-color: #18bc9c;
+    color: #0BA6EE;
+    background-color: #AF26EA;
 }
 
 hr.star-primary {
-    border-color: #2c3e50;
+    border-color: #AF26EA;
 }
 
 hr.star-primary:after {
@@ -188,7 +188,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #18bc9c;
+    background: #AF26EA;
 }
 
 @media(max-width:767px) {
